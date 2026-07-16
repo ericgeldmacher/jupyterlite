@@ -1,8 +1,0 @@
-{
-  "@jupyterlab/terminal-extension:plugin": {
-    "theme": "dark"
-  },
-  "@jupyterlab/console-extension:tracker": {
-    "interactionMode": "terminal"
-  }
-}
