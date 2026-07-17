@@ -4,11 +4,11 @@ channels:
 dependencies:
   - python
   - pip
-  - jupyter_server
-  - jupyterlite-core ==0.8.1
-  - jupyterlite-xeus ==5.0.0
-  - notebook ==7.6.0
-  - jupyterlite-javascript-kernel ==0.3.0
-  - jupyterlite-terminal==1.5.1
+  - jupyterlab
+  - jupyterlite-core==0.8.1
+  - jupyterlite-xeus==5.0.0
+  - notebook==7.6.0
+  - jupyterlite-javascript-kernel==0.3.0
   - pip:
+    - jupyterlite-terminal==1.6.0
     - jupyterlite-p5-kernel==0.3.0
