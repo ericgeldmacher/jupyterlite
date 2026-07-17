@@ -1,6 +1,12 @@
 {
   "@jupyterlab/console-extension:tracker": {
-    "interactionMode": "terminal"
+    "interactionMode": "terminal",
+    "toolbar": [
+      { "name": "restart", "disabled": true },
+      { "name": "clear", "disabled": true },
+      { "name": "copyShareableLink", "disabled": true },
+      { "name": "liteIcon", "disabled": true }
+    ]
   },
   "@jupyterlab/terminal-extension:plugin": {
     "theme": "dark"
