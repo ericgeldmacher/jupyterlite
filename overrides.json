@@ -1,6 +1,5 @@
 {
   "@jupyterlab/console-extension:tracker": {
-    "interactionMode": "terminal",
     "toolbar": [
       { "name": "restart", "disabled": true },
       { "name": "clear", "disabled": true },
