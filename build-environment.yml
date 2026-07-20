@@ -11,3 +11,4 @@ dependencies:
   - pip:
     - jupyterlite-terminal==1.6.0
     - specta
+    - litegitpuller

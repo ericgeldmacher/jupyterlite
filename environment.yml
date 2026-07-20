@@ -6,7 +6,6 @@ dependencies:
   - xeus-lua
   - xeus-sqlite
   - xeus-python
-  - xeus-javascript
   - ipycanvas
   - numpy
   - matplotlib
