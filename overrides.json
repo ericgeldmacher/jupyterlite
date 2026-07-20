@@ -6,8 +6,5 @@
       { "name": "copyShareableLink", "disabled": true },
       { "name": "liteIcon", "disabled": true }
     ]
-  },
-  "@jupyterlab/terminal-extension:plugin": {
-    "theme": "dark"
   }
 }
